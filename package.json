@@ -1,0 +1,29 @@
+{
+  "name": "nodecellar",
+  "version": "1.0.0",
+  "description": "Node JS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyasjoshi/JavaScript-Frameworks.git"
+  },
+  "keywords": [
+    "NodeJSExample",
+    "MongoDB",
+    "App"
+  ],
+  "author": "Priya Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyasjoshi/JavaScript-Frameworks/issues"
+  },
+  "homepage": "https://github.com/priyasjoshi/JavaScript-Frameworks#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.2"
+  }
+}
